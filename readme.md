@@ -1,0 +1,1 @@
+## A game made with vanilla js for fun!
