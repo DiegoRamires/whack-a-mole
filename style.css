@@ -67,3 +67,21 @@ h1 {
 .hole.up .mole {
   top: 0;
 }
+
+.start {
+  border-radius: 7px;
+  border: none;
+  padding: 2em;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.start:hover {
+  background-color: black;
+  color: aliceblue;
+  transition: 500ms
+}
+
+.disable {
+  margin-left: -99999px;
+}
